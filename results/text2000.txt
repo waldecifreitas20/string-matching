@@ -1,0 +1,65 @@
+==============================================
+# BUSCA EM 500 PALAVRAS
+==============================================
+ - FORCA BRUTA
+    ITERAÇÃO: 0
+    PALAVRA: modificações
+    INDÍCE ENCONTRADO: 1477
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 1
+    PALAVRA: modificações
+    INDÍCE ENCONTRADO: 1477
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 2
+    PALAVRA: modificações
+    INDÍCE ENCONTRADO: 1477
+    TEMPO DE EXECUÇÃO: 0.0009982585906982422
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 3
+    PALAVRA: modificações
+    INDÍCE ENCONTRADO: 1477
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 4
+    PALAVRA: modificações
+    INDÍCE ENCONTRADO: 1477
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 5
+    PALAVRA: modificações
+    INDÍCE ENCONTRADO: 1477
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 6
+    PALAVRA: modificações
+    INDÍCE ENCONTRADO: 1477
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 7
+    PALAVRA: modificações
+    INDÍCE ENCONTRADO: 1477
+    TEMPO DE EXECUÇÃO: 0.0009937286376953125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 8
+    PALAVRA: modificações
+    INDÍCE ENCONTRADO: 1477
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 9
+    PALAVRA: modificações
+    INDÍCE ENCONTRADO: 1477
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+TEMPO MÉDIO DE EXECUÇÃO: 0.00019919872283935547
+==============================================
