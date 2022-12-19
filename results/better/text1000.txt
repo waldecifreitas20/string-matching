@@ -1,0 +1,65 @@
+==============================================
+# BUSCA EM 500 PALAVRAS
+==============================================
+ - FORCA BRUTA
+    ITERAÇÃO: 0
+    PALAVRA: estratégia
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.024372339248657227
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 1
+    PALAVRA: estratégia
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.025834321975708008
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 2
+    PALAVRA: estratégia
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02537393569946289
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 3
+    PALAVRA: estratégia
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.025159597396850586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 4
+    PALAVRA: estratégia
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02551889419555664
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 5
+    PALAVRA: estratégia
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.025659561157226562
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 6
+    PALAVRA: estratégia
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.025821208953857422
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 7
+    PALAVRA: estratégia
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.026087284088134766
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 8
+    PALAVRA: estratégia
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02705836296081543
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 9
+    PALAVRA: estratégia
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.024391651153564453
+-------------------------------------------
+TEMPO MÉDIO DE EXECUÇÃO: 0.0255277156829834
+==============================================

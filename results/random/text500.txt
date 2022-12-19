@@ -4,62 +4,62 @@
  - FORCA BRUTA
     ITERAÇÃO: 0
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
+    INDÍCE ENCONTRADO: 3714
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 1
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
-    TEMPO DE EXECUÇÃO: 0.0
+    INDÍCE ENCONTRADO: 3714
+    TEMPO DE EXECUÇÃO: 0.0010025501251220703
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 2
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
+    INDÍCE ENCONTRADO: 3714
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 3
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
-    TEMPO DE EXECUÇÃO: 0.0
+    INDÍCE ENCONTRADO: 3714
+    TEMPO DE EXECUÇÃO: 0.0009942054748535156
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 4
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
+    INDÍCE ENCONTRADO: 3714
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 5
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
-    TEMPO DE EXECUÇÃO: 0.001007080078125
+    INDÍCE ENCONTRADO: 3714
+    TEMPO DE EXECUÇÃO: 0.00099945068359375
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 6
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
+    INDÍCE ENCONTRADO: 3714
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 7
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
-    TEMPO DE EXECUÇÃO: 0.0
+    INDÍCE ENCONTRADO: 3714
+    TEMPO DE EXECUÇÃO: 0.0009996891021728516
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 8
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
+    INDÍCE ENCONTRADO: 3714
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 9
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
-    TEMPO DE EXECUÇÃO: 0.0
+    INDÍCE ENCONTRADO: 3714
+    TEMPO DE EXECUÇÃO: 0.0010001659393310547
 -------------------------------------------
-TEMPO MÉDIO DE EXECUÇÃO: 0.0001007080078125
+TEMPO MÉDIO DE EXECUÇÃO: 0.0004996061325073242
 ==============================================

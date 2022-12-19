@@ -4,62 +4,62 @@
  - FORCA BRUTA
     ITERAÇÃO: 0
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 2148
-    TEMPO DE EXECUÇÃO: 0.0009944438934326172
+    INDÍCE ENCONTRADO: 1477
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 1
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 2148
+    INDÍCE ENCONTRADO: 1477
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 2
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 2148
+    INDÍCE ENCONTRADO: 1477
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 3
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 2148
-    TEMPO DE EXECUÇÃO: 0.0009953975677490234
+    INDÍCE ENCONTRADO: 1477
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 4
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 2148
+    INDÍCE ENCONTRADO: 1477
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 5
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 2148
+    INDÍCE ENCONTRADO: 1477
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 6
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 2148
-    TEMPO DE EXECUÇÃO: 0.0009980201721191406
+    INDÍCE ENCONTRADO: 1477
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 7
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 2148
+    INDÍCE ENCONTRADO: 1477
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 8
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 2148
-    TEMPO DE EXECUÇÃO: 0.0
+    INDÍCE ENCONTRADO: 1477
+    TEMPO DE EXECUÇÃO: 0.0009946823120117188
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 9
     PALAVRA: modificações
-    INDÍCE ENCONTRADO: 2148
-    TEMPO DE EXECUÇÃO: 0.0010023117065429688
+    INDÍCE ENCONTRADO: 1477
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
-TEMPO MÉDIO DE EXECUÇÃO: 0.000399017333984375
+TEMPO MÉDIO DE EXECUÇÃO: 9.946823120117187e-05
 ==============================================
