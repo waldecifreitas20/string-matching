@@ -5,61 +5,61 @@
     ITERAÇÃO: 0
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 3714
-    TEMPO DE EXECUÇÃO: 0.0
+    TEMPO DE EXECUÇÃO: 0.0010068416595458984
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 1
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 3714
-    TEMPO DE EXECUÇÃO: 0.0009927749633789062
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 2
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 3714
-    TEMPO DE EXECUÇÃO: 0.0
+    TEMPO DE EXECUÇÃO: 0.0009927749633789062
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 3
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 3714
-    TEMPO DE EXECUÇÃO: 0.0010063648223876953
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 4
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 3714
-    TEMPO DE EXECUÇÃO: 0.0
+    TEMPO DE EXECUÇÃO: 0.0010001659393310547
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 5
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 3714
-    TEMPO DE EXECUÇÃO: 0.0010023117065429688
+    TEMPO DE EXECUÇÃO: 0.00099945068359375
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 6
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 3714
-    TEMPO DE EXECUÇÃO: 0.0
+    TEMPO DE EXECUÇÃO: 0.0010020732879638672
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 7
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 3714
-    TEMPO DE EXECUÇÃO: 0.0009984970092773438
+    TEMPO DE EXECUÇÃO: 0.0009987354278564453
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 8
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 3714
-    TEMPO DE EXECUÇÃO: 0.0
+    TEMPO DE EXECUÇÃO: 0.00099945068359375
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 9
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 3714
-    TEMPO DE EXECUÇÃO: 0.000997781753540039
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
-TEMPO MÉDIO DE EXECUÇÃO: 0.0004997730255126953
+TEMPO MÉDIO DE EXECUÇÃO: 0.0006999492645263672
 ==============================================

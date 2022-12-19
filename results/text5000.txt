@@ -17,7 +17,7 @@
     ITERAÇÃO: 2
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 705
-    TEMPO DE EXECUÇÃO: 0.001004934310913086
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 3
@@ -35,7 +35,7 @@
     ITERAÇÃO: 5
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 705
-    TEMPO DE EXECUÇÃO: 0.0
+    TEMPO DE EXECUÇÃO: 0.001007080078125
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 6
@@ -61,5 +61,5 @@
     INDÍCE ENCONTRADO: 705
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
-TEMPO MÉDIO DE EXECUÇÃO: 0.0001004934310913086
+TEMPO MÉDIO DE EXECUÇÃO: 0.0001007080078125
 ==============================================

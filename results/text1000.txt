@@ -11,7 +11,7 @@
     ITERAÇÃO: 1
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 1914
-    TEMPO DE EXECUÇÃO: 0.0010046958923339844
+    TEMPO DE EXECUÇÃO: 0.0010027885437011719
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 2
@@ -29,13 +29,13 @@
     ITERAÇÃO: 4
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 1914
-    TEMPO DE EXECUÇÃO: 0.0
+    TEMPO DE EXECUÇÃO: 0.0009944438934326172
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 5
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 1914
-    TEMPO DE EXECUÇÃO: 0.000989675521850586
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 6
@@ -47,7 +47,7 @@
     ITERAÇÃO: 7
     PALAVRA: modificações
     INDÍCE ENCONTRADO: 1914
-    TEMPO DE EXECUÇÃO: 0.0
+    TEMPO DE EXECUÇÃO: 0.0010035037994384766
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 8
@@ -61,5 +61,5 @@
     INDÍCE ENCONTRADO: 1914
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
-TEMPO MÉDIO DE EXECUÇÃO: 0.00019943714141845703
+TEMPO MÉDIO DE EXECUÇÃO: 0.00030007362365722654
 ==============================================
