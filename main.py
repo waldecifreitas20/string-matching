@@ -1,5 +1,7 @@
 from algorithms import string_machers as machers
 from time import time as runtime
+from random import choice
+
 
 WORSE_CASE = 'PIOR' 
 RANDOM_CASE = 'LEATÓRIO'
@@ -41,12 +43,13 @@ def test(case) :
     
     # A palavra é a primeira no texto
     elif case == BETTER_CASE:
-        word=  'estratégia'
+        word=  'Estratégias'
         folder = 'better'
     
     # A palvra pode estar em qualquer parte do texto ou não
     else:
-        word=  'modificações'
+        text = list(texts['5000'].split(' '))
+        word=  choice(text)
         folder = 'random'
 
     
@@ -57,7 +60,8 @@ def test(case) :
             text.write('# BUSCA EM 500 PALAVRAS\n')
             text.write(f'==============================================\n')
             average_time = 0
-            for iteration in range(10):
+            iterations = 1000
+            for iteration in range(iterations):
                 startTime = runtime().real
                 index = machers.bruteForce(texts[text_length], word)
                 finishTime = runtime().real - startTime
@@ -69,7 +73,7 @@ def test(case) :
                 text.write(f'    TEMPO DE EXECUÇÃO: {finishTime}\n')
                 text.write(f'-------------------------------------------\n')
             
-            text.write(f'TEMPO MÉDIO DE EXECUÇÃO: {average_time/10}\n')
+            text.write(f'TEMPO MÉDIO DE EXECUÇÃO: {average_time/iterations}\n')
             text.write(f'==============================================\n')
 
 

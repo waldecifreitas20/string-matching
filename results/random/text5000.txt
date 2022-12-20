@@ -3,63 +3,6003 @@
 ==============================================
  - FORCA BRUTA
     ITERAÇÃO: 0
-    PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 1
-    PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
-    TEMPO DE EXECUÇÃO: 0.0010066032409667969
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 2
-    PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 3
-    PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 4
-    PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 5
-    PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
-    TEMPO DE EXECUÇÃO: 0.0
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.001005411148071289
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 6
-    PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 7
-    PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 8
-    PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 9
-    PALAVRA: modificações
-    INDÍCE ENCONTRADO: 705
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
     TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
-TEMPO MÉDIO DE EXECUÇÃO: 0.00010066032409667968
+ - FORCA BRUTA
+    ITERAÇÃO: 10
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 11
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 12
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 13
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009927749633789062
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 14
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 15
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 16
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 17
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 18
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 19
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 20
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 21
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0010013580322265625
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 22
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 23
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 24
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 25
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 26
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 27
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 28
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 29
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009984970092773438
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 30
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 31
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 32
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 33
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 34
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 35
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 36
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 37
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.00099945068359375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 38
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 39
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 40
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 41
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 42
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 43
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 44
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 45
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0010838508605957031
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 46
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 47
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.00024700164794921875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 48
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 49
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 50
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 51
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 52
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 53
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 54
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 55
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0010044574737548828
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 56
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 57
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 58
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 59
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 60
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 61
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 62
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 63
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 64
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 65
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 66
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 67
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 68
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 69
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 70
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 71
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 72
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.00099945068359375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 73
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 74
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 75
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 76
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 77
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 78
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 79
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 80
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0010001659393310547
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 81
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 82
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 83
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 84
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 85
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 86
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 87
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 88
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 89
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009999275207519531
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 90
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 91
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 92
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 93
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 94
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 95
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 96
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 97
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 98
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 99
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 100
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 101
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 102
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 103
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 104
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009999275207519531
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 105
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 106
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 107
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 108
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 109
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 110
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 111
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 112
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 113
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009996891021728516
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 114
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 115
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 116
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 117
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 118
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 119
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 120
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 121
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0010001659393310547
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 122
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 123
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 124
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 125
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 126
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 127
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 128
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 129
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 130
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.00099945068359375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 131
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 132
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 133
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 134
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 135
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 136
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 137
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 138
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0010001659393310547
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 139
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 140
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 141
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 142
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 143
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 144
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 145
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 146
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 147
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 148
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 149
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 150
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 151
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 152
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 153
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 154
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 155
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009920597076416016
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 156
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 157
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 158
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 159
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 160
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 161
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 162
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 163
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0010004043579101562
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 164
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 165
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 166
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 167
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 168
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 169
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 170
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 171
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 172
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009999275207519531
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 173
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 174
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 175
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 176
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 177
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 178
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 179
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 180
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009999275207519531
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 181
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 182
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 183
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 184
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 185
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 186
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 187
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 188
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 189
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0010051727294921875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 190
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 191
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 192
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 193
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 194
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 195
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 196
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 197
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009951591491699219
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 198
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 199
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 200
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 201
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 202
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 203
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 204
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 205
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009996891021728516
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 206
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 207
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 208
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 209
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 210
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 211
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 212
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 213
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 214
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009996891021728516
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 215
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 216
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 217
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 218
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 219
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 220
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 221
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 222
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0010006427764892578
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 223
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 224
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 225
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 226
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 227
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 228
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 229
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 230
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 231
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009992122650146484
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 232
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 233
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 234
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 235
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 236
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 237
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 238
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 239
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009999275207519531
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 240
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 241
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 242
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 243
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 244
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 245
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 246
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 247
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 248
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 249
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 250
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 251
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 252
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 253
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 254
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 255
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 256
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0010004043579101562
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 257
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 258
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 259
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 260
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 261
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 262
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 263
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 264
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009999275207519531
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 265
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 266
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 267
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 268
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 269
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 270
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 271
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 272
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 273
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009999275207519531
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 274
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 275
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 276
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 277
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 278
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 279
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 280
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 281
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009999275207519531
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 282
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 283
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 284
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 285
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 286
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 287
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 288
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 289
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 290
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0010001659393310547
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 291
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 292
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 293
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 294
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 295
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 296
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 297
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 298
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009996891021728516
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 299
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 300
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 301
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 302
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 303
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 304
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 305
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 306
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009999275207519531
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 307
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 308
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 309
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 310
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 311
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 312
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 313
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 314
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 315
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009996891021728516
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 316
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 317
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 318
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 319
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 320
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 321
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 322
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 323
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 324
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0010008811950683594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 325
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 326
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 327
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 328
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 329
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 330
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 331
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 332
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0010612010955810547
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 333
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 334
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 335
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 336
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 337
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 338
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 339
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 340
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 341
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 342
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 343
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 344
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 345
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 346
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 347
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 348
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 349
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 350
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 351
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 352
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 353
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 354
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 355
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 356
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 357
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 358
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 359
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 360
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 361
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 362
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 363
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 364
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 365
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 366
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 367
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 368
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 369
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 370
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 371
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 372
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 373
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 374
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 375
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 376
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 377
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 378
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 379
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 380
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 381
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 382
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 383
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 384
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 385
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 386
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 387
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 388
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 389
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 390
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 391
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 392
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 393
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 394
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 395
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 396
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 397
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 398
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 399
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 400
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 401
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 402
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 403
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 404
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 405
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 406
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 407
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 408
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 409
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 410
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 411
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 412
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 413
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 414
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 415
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 416
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 417
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 418
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 419
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 420
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 421
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 422
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 423
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 424
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 425
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 426
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 427
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 428
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 429
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 430
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 431
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 432
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 433
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 434
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 435
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 436
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 437
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 438
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 439
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 440
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 441
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 442
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 443
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 444
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 445
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 446
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 447
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 448
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 449
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 450
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 451
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 452
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 453
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 454
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 455
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 456
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 457
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 458
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 459
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 460
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 461
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 462
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 463
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 464
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 465
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.01563119888305664
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 466
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 467
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 468
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 469
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 470
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 471
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 472
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 473
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 474
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 475
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 476
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 477
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 478
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 479
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0017025470733642578
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 480
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 481
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 482
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 483
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 484
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 485
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 486
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 487
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0009982585906982422
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 488
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 489
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 490
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 491
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 492
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 493
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 494
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 495
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.000993490219116211
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 496
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 497
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.00014781951904296875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 498
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 499
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 500
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 501
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 502
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 503
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 504
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 505
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 506
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 507
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 508
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 509
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 510
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 511
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 512
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 513
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 514
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 515
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 516
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 517
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 518
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 519
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 520
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 521
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 522
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 523
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 524
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 525
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 526
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 527
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 528
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 529
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 530
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 531
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 532
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 533
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 534
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 535
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 536
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 537
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 538
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 539
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 540
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 541
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 542
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 543
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 544
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 545
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 546
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 547
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 548
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 549
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 550
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 551
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 552
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 553
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 554
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 555
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 556
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 557
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 558
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 559
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 560
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 561
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 562
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 563
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 564
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 565
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 566
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 567
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 568
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 569
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 570
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 571
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 572
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 573
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 574
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 575
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 576
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 577
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 578
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 579
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 580
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 581
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 582
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 583
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 584
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 585
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 586
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 587
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 588
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 589
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 590
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 591
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 592
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 593
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 594
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 595
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 596
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 597
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 598
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 599
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 600
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 601
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 602
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 603
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 604
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 605
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 606
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 607
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 608
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 609
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 610
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 611
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 612
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 613
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 614
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 615
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 616
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 617
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 618
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 619
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 620
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 621
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 622
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 623
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 624
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 625
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 626
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 627
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 628
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 629
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 630
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 631
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 632
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 633
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.01563405990600586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 634
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 635
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 636
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 637
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 638
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 639
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 640
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 641
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 642
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 643
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 644
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 645
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 646
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 647
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 648
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 649
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 650
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 651
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 652
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 653
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 654
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 655
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 656
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 657
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 658
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 659
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 660
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 661
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 662
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 663
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 664
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 665
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 666
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 667
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 668
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 669
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 670
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 671
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 672
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 673
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 674
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 675
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 676
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 677
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 678
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 679
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 680
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 681
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 682
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 683
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 684
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 685
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 686
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 687
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 688
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 689
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 690
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 691
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 692
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 693
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 694
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 695
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 696
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 697
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 698
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 699
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 700
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 701
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 702
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 703
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 704
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 705
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 706
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 707
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 708
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 709
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 710
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 711
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 712
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 713
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 714
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 715
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 716
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 717
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 718
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 719
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 720
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 721
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 722
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 723
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 724
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 725
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 726
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 727
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 728
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 729
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 730
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 731
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 732
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 733
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 734
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 735
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 736
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 737
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 738
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 739
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 740
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 741
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 742
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 743
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 744
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 745
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 746
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 747
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 748
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 749
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 750
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 751
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 752
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 753
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 754
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 755
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 756
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 757
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 758
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 759
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 760
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 761
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 762
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 763
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 764
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 765
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 766
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 767
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 768
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 769
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 770
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 771
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.01561594009399414
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 772
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 773
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 774
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 775
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 776
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 777
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 778
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 779
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 780
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0010116100311279297
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 781
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 782
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 783
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 784
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 785
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 786
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 787
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 788
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 789
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 790
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 791
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 792
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 793
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 794
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 795
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 796
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 797
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 798
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 799
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 800
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 801
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 802
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 803
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 804
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 805
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 806
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 807
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 808
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 809
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 810
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 811
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 812
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 813
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 814
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 815
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 816
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 817
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 818
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 819
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 820
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 821
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 822
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 823
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 824
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 825
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 826
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 827
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 828
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 829
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 830
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 831
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 832
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 833
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 834
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 835
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 836
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 837
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 838
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 839
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 840
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 841
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 842
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 843
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 844
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 845
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 846
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 847
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 848
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 849
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 850
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 851
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 852
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 853
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 854
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 855
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 856
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 857
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 858
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 859
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 860
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 861
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 862
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 863
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 864
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 865
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 866
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 867
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 868
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 869
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 870
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 871
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 872
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 873
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 874
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 875
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 876
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 877
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 878
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 879
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 880
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 881
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 882
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 883
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 884
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 885
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 886
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 887
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 888
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 889
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 890
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 891
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 892
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 893
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 894
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 895
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 896
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 897
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 898
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 899
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 900
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 901
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 902
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 903
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 904
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 905
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 906
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 907
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 908
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 909
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 910
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 911
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 912
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 913
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 914
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 915
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 916
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 917
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 918
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.015036582946777344
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 919
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 920
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 921
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 922
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 923
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 924
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 925
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 926
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 927
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 928
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 929
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 930
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 931
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 932
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 933
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 934
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 935
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 936
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 937
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 938
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 939
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 940
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 941
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 942
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 943
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 944
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 945
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 946
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 947
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 948
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 949
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 950
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 951
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 952
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 953
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 954
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 955
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 956
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 957
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 958
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 959
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 960
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 961
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 962
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 963
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 964
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 965
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 966
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 967
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 968
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 969
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 970
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 971
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 972
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 973
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 974
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 975
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 976
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 977
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 978
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 979
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 980
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 981
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 982
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 983
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 984
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 985
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 986
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 987
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 988
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 989
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 990
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 991
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 992
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 993
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 994
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 995
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 996
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 997
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 998
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 999
+    PALAVRA: devidamente
+    INDÍCE ENCONTRADO: 799
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+TEMPO MÉDIO DE EXECUÇÃO: 0.00010315680503845215
 ==============================================

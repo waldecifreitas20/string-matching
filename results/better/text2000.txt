@@ -3,63 +3,6003 @@
 ==============================================
  - FORCA BRUTA
     ITERAÇÃO: 0
-    PALAVRA: estratégia
-    INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.04953408241271973
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 1
-    PALAVRA: estratégia
-    INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.04740548133850098
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 2
-    PALAVRA: estratégia
-    INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.04883933067321777
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 3
-    PALAVRA: estratégia
-    INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.04232144355773926
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 4
-    PALAVRA: estratégia
-    INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.0487825870513916
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 5
-    PALAVRA: estratégia
-    INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.05006599426269531
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 6
-    PALAVRA: estratégia
-    INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.03960251808166504
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 7
-    PALAVRA: estratégia
-    INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.053354501724243164
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 8
-    PALAVRA: estratégia
-    INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.04691267013549805
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 9
-    PALAVRA: estratégia
-    INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.04797482490539551
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
 -------------------------------------------
-TEMPO MÉDIO DE EXECUÇÃO: 0.04747934341430664
+ - FORCA BRUTA
+    ITERAÇÃO: 10
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 11
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 12
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 13
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 14
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 15
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 16
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 17
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 18
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 19
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 20
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 21
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 22
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 23
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 24
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 25
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 26
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 27
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 28
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 29
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 30
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 31
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 32
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 33
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 34
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 35
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 36
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 37
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 38
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 39
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 40
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 41
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 42
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 43
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 44
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 45
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 46
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 47
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 48
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 49
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 50
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 51
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 52
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 53
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 54
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 55
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 56
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 57
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 58
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 59
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 60
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 61
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 62
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 63
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 64
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 65
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 66
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 67
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 68
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 69
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 70
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 71
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 72
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 73
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 74
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 75
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 76
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 77
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 78
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 79
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 80
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 81
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 82
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 83
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 84
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 85
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 86
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 87
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 88
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 89
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 90
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 91
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 92
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 93
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 94
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 95
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 96
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 97
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 98
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 99
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 100
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 101
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 102
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 103
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 104
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 105
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 106
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 107
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 108
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 109
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 110
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 111
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 112
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 113
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 114
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 115
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 116
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 117
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 118
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 119
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 120
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 121
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 122
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 123
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 124
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 125
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 126
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 127
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 128
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 129
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 130
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 131
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 132
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 133
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 134
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 135
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 136
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 137
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 138
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 139
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 140
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 141
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 142
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 143
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 144
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 145
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 146
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 147
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 148
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 149
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 150
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 151
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 152
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 153
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 154
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 155
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 156
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 157
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 158
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 159
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 160
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 161
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 162
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 163
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 164
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 165
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 166
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 167
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 168
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 169
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 170
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 171
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 172
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 173
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 174
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 175
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 176
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 177
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 178
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 179
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 180
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 181
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 182
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 183
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 184
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 185
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 186
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 187
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 188
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 189
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 190
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 191
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 192
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 193
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 194
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 195
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 196
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 197
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 198
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 199
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 200
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 201
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 202
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 203
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 204
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 205
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 206
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 207
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 208
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 209
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 210
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 211
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 212
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 213
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 214
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 215
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 216
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 217
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 218
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 219
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 220
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 221
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 222
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 223
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 224
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 225
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 226
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 227
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 228
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 229
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 230
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 231
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 232
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 233
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 234
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 235
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 236
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 237
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 238
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 239
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 240
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 241
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 242
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 243
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 244
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 245
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 246
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 247
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 248
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 249
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 250
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 251
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 252
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 253
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 254
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 255
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 256
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 257
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 258
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 259
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 260
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 261
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 262
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 263
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 264
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 265
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 266
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 267
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 268
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 269
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 270
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 271
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 272
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 273
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 274
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 275
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 276
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 277
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 278
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 279
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 280
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 281
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 282
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 283
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 284
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 285
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 286
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 287
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 288
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 289
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 290
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 291
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 292
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 293
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 294
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 295
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 296
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 297
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 298
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 299
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 300
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 301
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 302
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 303
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 304
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 305
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 306
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 307
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 308
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 309
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 310
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 311
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 312
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 313
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 314
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 315
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 316
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 317
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 318
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 319
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 320
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 321
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 322
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 323
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 324
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 325
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 326
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 327
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 328
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 329
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 330
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 331
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 332
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 333
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 334
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 335
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 336
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 337
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 338
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 339
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 340
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 341
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 342
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 343
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 344
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 345
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 346
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 347
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 348
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 349
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 350
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 351
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 352
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 353
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 354
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 355
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 356
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 357
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 358
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 359
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 360
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 361
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 362
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 363
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 364
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 365
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 366
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 367
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 368
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 369
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 370
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 371
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 372
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 373
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 374
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 375
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 376
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 377
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 378
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 379
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 380
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 381
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 382
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 383
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 384
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 385
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 386
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 387
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 388
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 389
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 390
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 391
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 392
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 393
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 394
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 395
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 396
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 397
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 398
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 399
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 400
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 401
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 402
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 403
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 404
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 405
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 406
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 407
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 408
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 409
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 410
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 411
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 412
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 413
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 414
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 415
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 416
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 417
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 418
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 419
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 420
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 421
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 422
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 423
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 424
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 425
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 426
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 427
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 428
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 429
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 430
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 431
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 432
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 433
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 434
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 435
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 436
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 437
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 438
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 439
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 440
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 441
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 442
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 443
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 444
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 445
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 446
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 447
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 448
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 449
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 450
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 451
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 452
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 453
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 454
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 455
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 456
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 457
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 458
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 459
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 460
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 461
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 462
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 463
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 464
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 465
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 466
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 467
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 468
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 469
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 470
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 471
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 472
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 473
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 474
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 475
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 476
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 477
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 478
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 479
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 480
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 481
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 482
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 483
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 484
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 485
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 486
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 487
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 488
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 489
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 490
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 491
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 492
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 493
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 494
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 495
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 496
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 497
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 498
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 499
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 500
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 501
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 502
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 503
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 504
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 505
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 506
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 507
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 508
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 509
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 510
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 511
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 512
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 513
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 514
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 515
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 516
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 517
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 518
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 519
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 520
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 521
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 522
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 523
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 524
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 525
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 526
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 527
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 528
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 529
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 530
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 531
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 532
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 533
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 534
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 535
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 536
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 537
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 538
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 539
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 540
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 541
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 542
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 543
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 544
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 545
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 546
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 547
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 548
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 549
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 550
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 551
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 552
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 553
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 554
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 555
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 556
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 557
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 558
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 559
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 560
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 561
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 562
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 563
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 564
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 565
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 566
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 567
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 568
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 569
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 570
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 571
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 572
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 573
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 574
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 575
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 576
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 577
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 578
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 579
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 580
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 581
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 582
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 583
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 584
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 585
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 586
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 587
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 588
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 589
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 590
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 591
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 592
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 593
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 594
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 595
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 596
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 597
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 598
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 599
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 600
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 601
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 602
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 603
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 604
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 605
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 606
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 607
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 608
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 609
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 610
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 611
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 612
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 613
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 614
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 615
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 616
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 617
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 618
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 619
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 620
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 621
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 622
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 623
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 624
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 625
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 626
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 627
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 628
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 629
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 630
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 631
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 632
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 633
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 634
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 635
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 636
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 637
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 638
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 639
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 640
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 641
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 642
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 643
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 644
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 645
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 646
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 647
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 648
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 649
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 650
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 651
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 652
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 653
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 654
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 655
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 656
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 657
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 658
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 659
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 660
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 661
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 662
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 663
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 664
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 665
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 666
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 667
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 668
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 669
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 670
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 671
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 672
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 673
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 674
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 675
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 676
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 677
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 678
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 679
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 680
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 681
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 682
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 683
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 684
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 685
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 686
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 687
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 688
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 689
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 690
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 691
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 692
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 693
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 694
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 695
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 696
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 697
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 698
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 699
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 700
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 701
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 702
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 703
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 704
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 705
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 706
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 707
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 708
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 709
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 710
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 711
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 712
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 713
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 714
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 715
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 716
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 717
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 718
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 719
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 720
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 721
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 722
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 723
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 724
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 725
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 726
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 727
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 728
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 729
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 730
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 731
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 732
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 733
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 734
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 735
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 736
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 737
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 738
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 739
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 740
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 741
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 742
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 743
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 744
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 745
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 746
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 747
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 748
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 749
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 750
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 751
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 752
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 753
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 754
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 755
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 756
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 757
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 758
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 759
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 760
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 761
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 762
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 763
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 764
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 765
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 766
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 767
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 768
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 769
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 770
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 771
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 772
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 773
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 774
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 775
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 776
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 777
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 778
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 779
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 780
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 781
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 782
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 783
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 784
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 785
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 786
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 787
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 788
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 789
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 790
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 791
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 792
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 793
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 794
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 795
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 796
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 797
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 798
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 799
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 800
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 801
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 802
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 803
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 804
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 805
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 806
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 807
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 808
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 809
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 810
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 811
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 812
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 813
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 814
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 815
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 816
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 817
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 818
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 819
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 820
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 821
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 822
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 823
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 824
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 825
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 826
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 827
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 828
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 829
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 830
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 831
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 832
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 833
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 834
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 835
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 836
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 837
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 838
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 839
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 840
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 841
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 842
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 843
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 844
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 845
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 846
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 847
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 848
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 849
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 850
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 851
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 852
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 853
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 854
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 855
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 856
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 857
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 858
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 859
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 860
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 861
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 862
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 863
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 864
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 865
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 866
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 867
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 868
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 869
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 870
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 871
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 872
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 873
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 874
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 875
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 876
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 877
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 878
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 879
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 880
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 881
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 882
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 883
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 884
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 885
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 886
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 887
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 888
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 889
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 890
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 891
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 892
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 893
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 894
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 895
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 896
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 897
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 898
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 899
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 900
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 901
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 902
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 903
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 904
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 905
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 906
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 907
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 908
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 909
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 910
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 911
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 912
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 913
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 914
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 915
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 916
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 917
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 918
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 919
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 920
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 921
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 922
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 923
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 924
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 925
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 926
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 927
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 928
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 929
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 930
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 931
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 932
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 933
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 934
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 935
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 936
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 937
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 938
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 939
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 940
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 941
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 942
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 943
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 944
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 945
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 946
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 947
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 948
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 949
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 950
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 951
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 952
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 953
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 954
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 955
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 956
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 957
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 958
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 959
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 960
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 961
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 962
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 963
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 964
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 965
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 966
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 967
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 968
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 969
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 970
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 971
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 972
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 973
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 974
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 975
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 976
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 977
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 978
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 979
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 980
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 981
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 982
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 983
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 984
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 985
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 986
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 987
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 988
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 989
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 990
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 991
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 992
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 993
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 994
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 995
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 996
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 997
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 998
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 999
+    PALAVRA: Estratégias
+    INDÍCE ENCONTRADO: 0
+    TEMPO DE EXECUÇÃO: 0.0
+-------------------------------------------
+TEMPO MÉDIO DE EXECUÇÃO: 0.0
 ==============================================

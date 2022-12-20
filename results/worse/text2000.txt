@@ -5,61 +5,6001 @@
     ITERAÇÃO: 0
     PALAVRA: lksjdfjdf
     INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.03948664665222168
+    TEMPO DE EXECUÇÃO: 0.051668405532836914
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 1
     PALAVRA: lksjdfjdf
     INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.037017822265625
+    TEMPO DE EXECUÇÃO: 0.03281426429748535
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 2
     PALAVRA: lksjdfjdf
     INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.035645484924316406
+    TEMPO DE EXECUÇÃO: 0.0473332405090332
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 3
     PALAVRA: lksjdfjdf
     INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.03753018379211426
+    TEMPO DE EXECUÇÃO: 0.03130173683166504
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 4
     PALAVRA: lksjdfjdf
     INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.036583900451660156
+    TEMPO DE EXECUÇÃO: 0.0468747615814209
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 5
     PALAVRA: lksjdfjdf
     INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.039613962173461914
+    TEMPO DE EXECUÇÃO: 0.04737567901611328
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 6
     PALAVRA: lksjdfjdf
     INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.03709983825683594
+    TEMPO DE EXECUÇÃO: 0.031279802322387695
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 7
     PALAVRA: lksjdfjdf
     INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.034475088119506836
+    TEMPO DE EXECUÇÃO: 0.04738330841064453
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 8
     PALAVRA: lksjdfjdf
     INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.03993082046508789
+    TEMPO DE EXECUÇÃO: 0.04692721366882324
 -------------------------------------------
  - FORCA BRUTA
     ITERAÇÃO: 9
     PALAVRA: lksjdfjdf
     INDÍCE ENCONTRADO: None
-    TEMPO DE EXECUÇÃO: 0.029801607131958008
+    TEMPO DE EXECUÇÃO: 0.040791988372802734
 -------------------------------------------
-TEMPO MÉDIO DE EXECUÇÃO: 0.03671853542327881
+ - FORCA BRUTA
+    ITERAÇÃO: 10
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03876686096191406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 11
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.036006927490234375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 12
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02675175666809082
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 13
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04725074768066406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 14
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.028964757919311523
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 15
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0315241813659668
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 16
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04691934585571289
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 17
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 18
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031751394271850586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 19
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468745231628418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 20
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.034792423248291016
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 21
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.028218746185302734
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 22
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046866416931152344
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 23
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170585632324219
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 24
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04240846633911133
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 25
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.029507875442504883
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 26
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03173065185546875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 27
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04884219169616699
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 28
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05381345748901367
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 29
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.06253242492675781
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 30
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.043621063232421875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 31
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125143051147461
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 32
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.050390005111694336
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 33
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03913736343383789
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 34
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03866934776306152
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 35
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.038118839263916016
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 36
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.038484811782836914
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 37
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.026052474975585938
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 38
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.049140214920043945
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 39
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03972434997558594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 40
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03900718688964844
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 41
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.030467748641967773
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 42
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031248092651367188
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 43
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05124807357788086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 44
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.025682449340820312
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 45
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04708051681518555
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 46
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03182196617126465
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 47
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03128457069396973
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 48
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04730415344238281
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 49
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.041292428970336914
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 50
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.035520315170288086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 51
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03172707557678223
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 52
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031295061111450195
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 53
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04687905311584473
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 54
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03762030601501465
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 55
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03577589988708496
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 56
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 57
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03174948692321777
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 58
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312504768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 59
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0473330020904541
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 60
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129434585571289
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 61
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046874284744262695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 62
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170347213745117
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 63
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03327012062072754
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 64
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05083346366882324
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 65
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.028823375701904297
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 66
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03140854835510254
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 67
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047106027603149414
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 68
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03925585746765137
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 69
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03736591339111328
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 70
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.032769203186035156
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 71
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03611588478088379
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 72
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031456947326660156
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 73
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04795408248901367
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 74
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031040668487548828
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 75
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03910017013549805
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 76
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04027128219604492
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 77
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.037012338638305664
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 78
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.036739349365234375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 79
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129458427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 80
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125715255737305
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 81
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170132637023926
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 82
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.048864126205444336
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 83
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03780531883239746
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 84
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.023406982421875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 85
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046883583068847656
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 86
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03579115867614746
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 87
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.027209758758544922
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 88
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468747615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 89
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031706809997558594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 90
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04233813285827637
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 91
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.034075021743774414
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 92
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03174948692321777
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 93
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031294822692871094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 94
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04850125312805176
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 95
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03174996376037598
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 96
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 97
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047438859939575195
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 98
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03049778938293457
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 99
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03127169609069824
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 100
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04733419418334961
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 101
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312955379486084
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 102
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249046325683594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 103
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0317075252532959
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 104
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05121016502380371
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 105
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.026436328887939453
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 106
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04618644714355469
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 107
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03248238563537598
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 108
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03825807571411133
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 109
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02467179298400879
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 110
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04687309265136719
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 111
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170609474182129
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 112
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04397726058959961
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 113
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03583335876464844
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 114
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03169608116149902
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 115
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129458427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 116
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 117
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03660726547241211
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 118
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.036991119384765625
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 119
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03400588035583496
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 120
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.030209779739379883
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 121
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 122
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047330617904663086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 123
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031294822692871094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 124
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 125
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04737281799316406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 126
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03719139099121094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 127
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.036215782165527344
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 128
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.025758981704711914
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 129
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04689335823059082
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 130
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03629159927368164
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 131
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03666186332702637
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 132
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031223535537719727
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 133
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03231191635131836
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 134
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.030709505081176758
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 135
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468754768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 136
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031703948974609375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 137
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031294822692871094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 138
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 139
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031748056411743164
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 140
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249523162841797
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 141
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.048772573471069336
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 142
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03680586814880371
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 143
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03127455711364746
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 144
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0337827205657959
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 145
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04341411590576172
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 146
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03599977493286133
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 147
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02280259132385254
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 148
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04691767692565918
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 149
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 150
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170490264892578
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 151
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046919822692871094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 152
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 153
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031749725341796875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 154
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 155
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.037485599517822266
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 156
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03699088096618652
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 157
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.025804758071899414
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 158
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04732966423034668
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 159
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03697538375854492
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 160
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03314566612243652
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 161
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04028725624084473
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 162
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 163
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312504768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 164
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0317540168762207
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 165
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 166
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.034290313720703125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 167
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02870965003967285
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 168
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04706144332885742
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 169
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03175187110900879
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 170
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.039435386657714844
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 171
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.037796735763549805
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 172
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03121018409729004
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 173
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04498696327209473
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 174
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03367185592651367
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 175
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.038373708724975586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 176
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 177
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03679084777832031
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 178
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02620983123779297
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 179
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 180
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031706809997558594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 181
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031293392181396484
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 182
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.054677486419677734
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 183
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03972506523132324
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 184
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04703354835510254
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 185
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02709221839904785
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 186
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05127596855163574
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 187
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02971339225769043
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 188
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047324419021606445
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 189
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249284744262695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 190
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04727053642272949
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 191
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03126716613769531
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 192
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046872615814208984
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 193
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03166055679321289
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 194
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 195
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468747615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 196
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03166079521179199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 197
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03127646446228027
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 198
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.048836708068847656
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 199
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03699755668640137
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 200
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.025094270706176758
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 201
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04731917381286621
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 202
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031259775161743164
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 203
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031240463256835938
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 204
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04737663269042969
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 205
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031232833862304688
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 206
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04728364944458008
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 207
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0366673469543457
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 208
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468747615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 209
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03166389465332031
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 210
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 211
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04676008224487305
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 212
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.040838003158569336
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 213
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03206133842468262
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 214
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03166365623474121
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 215
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04689645767211914
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 216
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031241893768310547
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 217
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04730081558227539
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 218
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312504768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 219
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03926205635070801
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 220
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03927254676818848
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 221
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031246185302734375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 222
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03164982795715332
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 223
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04691433906555176
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 224
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 225
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031705617904663086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 226
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04760098457336426
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 227
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03727436065673828
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 228
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02487492561340332
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 229
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468747615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 230
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03229045867919922
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 231
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03070974349975586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 232
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 233
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047330617904663086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 234
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129458427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 235
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 236
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047373294830322266
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 237
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 238
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312504768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 239
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04840397834777832
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 240
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.037006378173828125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 241
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03392148017883301
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 242
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.039544105529785156
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 243
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.032764434814453125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 244
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170514106750488
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 245
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312952995300293
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 246
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468745231628418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 247
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031697750091552734
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 248
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129458427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 249
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 250
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047374725341796875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 251
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 252
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 253
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03744363784790039
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 254
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04592752456665039
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 255
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.037223100662231445
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 256
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03639364242553711
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 257
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.030749082565307617
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 258
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170609474182129
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 259
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129386901855469
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 260
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468752384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 261
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170323371887207
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 262
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031295061111450195
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 263
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468747615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 264
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031759023666381836
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 265
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312504768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 266
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047330617904663086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 267
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.038866281509399414
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 268
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.033172607421875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 269
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03173518180847168
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 270
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.043787479400634766
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 271
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.024821043014526367
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 272
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047393798828125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 273
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249284744262695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 274
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031229019165039062
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 275
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04727506637573242
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 276
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249523162841797
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 277
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03827929496765137
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 278
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.024707794189453125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 279
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468754768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 280
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031707763671875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 281
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04403567314147949
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 282
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02712726593017578
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 283
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03171253204345703
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 284
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04691934585571289
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 285
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03966188430786133
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 286
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.030204057693481445
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 287
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 288
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04775667190551758
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 289
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03105020523071289
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 290
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 291
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04733633995056152
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 292
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129434585571289
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 293
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312504768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 294
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.048419952392578125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 295
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03761172294616699
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 296
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031768083572387695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 297
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03174948692321777
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 298
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 299
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03768324851989746
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 300
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03377699851989746
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 301
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249284744262695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 302
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170895576477051
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 303
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04898953437805176
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 304
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.033202409744262695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 305
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02964162826538086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 306
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0469202995300293
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 307
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249523162841797
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 308
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04180455207824707
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 309
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02412891387939453
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 310
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047353267669677734
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 311
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031294822692871094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 312
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03124856948852539
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 313
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05105400085449219
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 314
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03705430030822754
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 315
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.034311771392822266
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 316
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031655311584472656
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 317
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249284744262695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 318
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04676008224487305
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 319
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03126382827758789
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 320
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031247854232788086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 321
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03775644302368164
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 322
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04541921615600586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 323
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02968907356262207
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 324
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03164267539978027
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 325
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04688382148742676
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 326
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125119209289551
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 327
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0311429500579834
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 328
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.050119876861572266
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 329
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03459477424621582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 330
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02514171600341797
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 331
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468747615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 332
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03164076805114746
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 333
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031258344650268555
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 334
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04687929153442383
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 335
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03944087028503418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 336
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03699326515197754
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 337
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.033338069915771484
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 338
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03165888786315918
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 339
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 340
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04676175117492676
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 341
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03126096725463867
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 342
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125309944152832
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 343
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046231985092163086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 344
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03472304344177246
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 345
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031244277954101562
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 346
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03171730041503906
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 347
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046918630599975586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 348
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 349
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04371905326843262
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 350
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03312182426452637
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 351
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031271934509277344
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 352
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03175067901611328
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 353
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 354
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031165122985839844
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 355
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129458427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 356
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468752384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 357
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03910374641418457
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 358
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02513289451599121
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 359
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04689669609069824
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 360
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03175067901611328
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 361
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 362
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 363
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.027965784072875977
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 364
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031271934509277344
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 365
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04772138595581055
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 366
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129315376281738
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 367
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 368
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04732108116149902
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 369
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129410743713379
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 370
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 371
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04737567901611328
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 372
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03755331039428711
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 373
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03220939636230469
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 374
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.040871620178222656
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 375
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 376
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03479194641113281
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 377
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04457902908325195
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 378
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.030135631561279297
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 379
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0317082405090332
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 380
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04691910743713379
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 381
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 382
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170609474182129
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 383
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04691958427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 384
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03779125213623047
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 385
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.025209665298461914
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 386
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.045148611068725586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 387
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03700709342956543
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 388
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03339529037475586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 389
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312504768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 390
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04459404945373535
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 391
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.036006927490234375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 392
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02377772331237793
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 393
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04737544059753418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 394
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 395
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 396
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04737257957458496
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 397
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 398
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.036791324615478516
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 399
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04183626174926758
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 400
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 401
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.044295310974121094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 402
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02422046661376953
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 403
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249284744262695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 404
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05250430107116699
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 405
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.034516334533691406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 406
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03127241134643555
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 407
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03175044059753418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 408
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468752384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 409
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03116464614868164
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 410
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129458427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 411
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 412
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031705379486083984
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 413
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129458427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 414
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 415
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05102705955505371
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 416
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03731799125671387
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 417
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03127169609069824
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 418
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04388928413391113
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 419
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.025129079818725586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 420
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04735279083251953
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 421
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031294822692871094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 422
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 423
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047373056411743164
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 424
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 425
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 426
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046988487243652344
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 427
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 428
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.042305946350097656
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 429
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03633570671081543
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 430
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03843235969543457
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 431
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03628849983215332
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 432
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.034143686294555664
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 433
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03127264976501465
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 434
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047376394271850586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 435
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 436
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 437
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04737496376037598
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 438
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 439
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03629159927368164
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 440
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.042334794998168945
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 441
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 442
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170657157897949
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 443
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129410743713379
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 444
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05212998390197754
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 445
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03694868087768555
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 446
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.035776615142822266
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 447
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249523162841797
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 448
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03175187110900879
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 449
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249046325683594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 450
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.051038265228271484
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 451
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.026262521743774414
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 452
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129458427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 453
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047330379486083984
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 454
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312952995300293
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 455
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249523162841797
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 456
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03171420097351074
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 457
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04691886901855469
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 458
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 459
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04214930534362793
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 460
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0339815616607666
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 461
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312504768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 462
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03175091743469238
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 463
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468752384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 464
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031707048416137695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 465
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031293630599975586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 466
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 467
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031706809997558594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 468
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129434585571289
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 469
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 470
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04737496376037598
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 471
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312504768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 472
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04854440689086914
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 473
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0376584529876709
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 474
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02713155746459961
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 475
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03531241416931152
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 476
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0433351993560791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 477
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 478
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04734969139099121
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 479
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249046325683594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 480
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249523162841797
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 481
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03551506996154785
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 482
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875715255737305
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 483
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.033260345458984375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 484
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.029642343521118164
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 485
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468745231628418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 486
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.041417837142944336
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 487
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031092405319213867
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 488
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.043201446533203125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 489
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.022115468978881836
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 490
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875953674316406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 491
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03925442695617676
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 492
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.039267778396606445
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 493
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031250953674316406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 494
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031646013259887695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 495
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03126168251037598
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 496
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04690384864807129
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 497
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170585632324219
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 498
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031295061111450195
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 499
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04973173141479492
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 500
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03599286079406738
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 501
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03437376022338867
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 502
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0392765998840332
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 503
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.029573678970336914
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 504
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03126811981201172
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 505
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.038290977478027344
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 506
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04033470153808594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 507
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249523162841797
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 508
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03169894218444824
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 509
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04691576957702637
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 510
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 511
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03171539306640625
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 512
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031295061111450195
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 513
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04985475540161133
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 514
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03599214553833008
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 515
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.033063411712646484
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 516
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.038292884826660156
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 517
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03856039047241211
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 518
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02550959587097168
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 519
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03631305694580078
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 520
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04233431816101074
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 521
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 522
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170585632324219
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 523
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04691934585571289
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 524
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 525
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170323371887207
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 526
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046919822692871094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 527
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0351104736328125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 528
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.034540414810180664
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 529
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03127312660217285
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 530
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03828835487365723
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 531
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.042237281799316406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 532
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.037004709243774414
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 533
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03384828567504883
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 534
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031294822692871094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 535
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249284744262695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 536
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04737544059753418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 537
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 538
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 539
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04738283157348633
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 540
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 541
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.045278072357177734
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 542
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03700089454650879
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 543
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0337982177734375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 544
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031707763671875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 545
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312955379486084
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 546
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05111408233642578
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 547
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02213001251220703
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 548
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04689669609069824
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 549
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03829050064086914
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 550
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.024709701538085938
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 551
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468754768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 552
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03169822692871094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 553
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031290292739868164
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 554
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 555
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05080604553222656
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 556
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03660726547241211
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 557
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.029778718948364258
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 558
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03169536590576172
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 559
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046920061111450195
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 560
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 561
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0433506965637207
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 562
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.029163360595703125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 563
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03629136085510254
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 564
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.042617082595825195
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 565
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 566
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03171062469482422
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 567
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04691958427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 568
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03718900680541992
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 569
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03600430488586426
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 570
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.022777080535888672
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 571
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046874284744262695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 572
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031754493713378906
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 573
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031246185302734375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 574
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04733157157897949
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 575
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03710508346557617
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 576
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03682684898376465
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 577
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03585696220397949
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 578
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129410743713379
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 579
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312504768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 580
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170633316040039
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 581
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04691886901855469
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 582
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.040081024169921875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 583
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03599381446838379
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 584
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.033400774002075195
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 585
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03579068183898926
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 586
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.027209043502807617
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 587
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468754768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 588
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031706809997558594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 589
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129458427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 590
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05097389221191406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 591
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02852463722229004
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 592
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031271934509277344
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 593
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046885013580322266
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 594
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031751394271850586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 595
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312504768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 596
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.049581050872802734
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 597
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.026442527770996094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 598
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031272172927856445
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 599
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047331809997558594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 600
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129458427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 601
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.045105934143066406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 602
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03378725051879883
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 603
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 604
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04338574409484863
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 605
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.037200927734375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 606
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03341984748840332
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 607
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03379464149475098
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 608
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.029209136962890625
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 609
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468752384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 610
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.038378000259399414
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 611
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03577780723571777
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 612
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249523162841797
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 613
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170657157897949
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 614
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04691910743713379
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 615
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031250715255737305
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 616
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03174996376037598
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 617
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 618
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05125546455383301
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 619
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.037561655044555664
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 620
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.027135848999023438
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 621
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04739737510681152
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 622
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031234264373779297
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 623
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04877901077270508
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 624
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03803825378417969
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 625
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031258344650268555
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 626
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04727578163146973
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 627
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031264305114746094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 628
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04687380790710449
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 629
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031651973724365234
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 630
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031250715255737305
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 631
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04675722122192383
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 632
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031260013580322266
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 633
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04618978500366211
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 634
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.026082277297973633
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 635
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04687333106994629
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 636
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0379030704498291
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 637
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.040061235427856445
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 638
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.022733449935913086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 639
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0508880615234375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 640
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.027643918991088867
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 641
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031247854232788086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 642
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047269582748413086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 643
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03128814697265625
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 644
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249523162841797
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 645
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0327916145324707
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 646
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.045835018157958984
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 647
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.045168161392211914
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 648
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02613544464111328
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 649
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04707813262939453
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 650
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.038397789001464844
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 651
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031105518341064453
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 652
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03153395652770996
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 653
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04712533950805664
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 654
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031481266021728516
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 655
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031246423721313477
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 656
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03164243698120117
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 657
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047115325927734375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 658
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031053781509399414
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 659
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031209707260131836
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 660
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468752384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 661
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03779029846191406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 662
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03749418258666992
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 663
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.027780771255493164
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 664
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03386950492858887
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 665
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031217575073242188
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 666
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03640413284301758
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 667
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04735231399536133
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 668
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031294822692871094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 669
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 670
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04737520217895508
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 671
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03126072883605957
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 672
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03123927116394043
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 673
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03174781799316406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 674
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 675
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03479957580566406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 676
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04299497604370117
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 677
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.025135517120361328
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 678
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05173778533935547
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 679
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.037999868392944336
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 680
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.025712013244628906
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 681
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04728388786315918
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 682
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 683
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04727602005004883
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 684
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03126358985900879
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 685
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249046325683594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 686
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04728388786315918
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 687
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.038866281509399414
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 688
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.023825883865356445
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 689
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0472722053527832
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 690
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0400843620300293
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 691
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.037995338439941406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 692
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.028834104537963867
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 693
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04674530029296875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 694
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170633316040039
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 695
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312955379486084
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 696
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249284744262695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 697
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04737734794616699
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 698
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125143051147461
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 699
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031248807907104492
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 700
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047376394271850586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 701
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 702
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03679823875427246
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 703
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.041834115982055664
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 704
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03626585006713867
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 705
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.037653446197509766
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 706
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.035776615142822266
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 707
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249284744262695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 708
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03169727325439453
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 709
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129458427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 710
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 711
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03175020217895508
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 712
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 713
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047332048416137695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 714
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129386901855469
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 715
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 716
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04733109474182129
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 717
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129458427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 718
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.036385536193847656
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 719
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.042365074157714844
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 720
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031121492385864258
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 721
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031271934509277344
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 722
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04737520217895508
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 723
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 724
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03829050064086914
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 725
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04033493995666504
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 726
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 727
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0317072868347168
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 728
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129386901855469
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 729
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 730
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03171110153198242
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 731
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129458427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 732
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03644585609436035
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 733
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04566383361816406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 734
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.027666330337524414
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 735
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04692363739013672
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 736
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.036417245864868164
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 737
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03165793418884277
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 738
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.032088279724121094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 739
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046735286712646484
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 740
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125452995300293
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 741
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03179931640625
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 742
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0471041202545166
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 743
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125190734863281
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 744
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03197956085205078
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 745
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031060218811035156
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 746
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05255627632141113
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 747
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03280997276306152
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 748
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04137158393859863
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 749
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.026172637939453125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 750
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046895742416381836
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 751
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 752
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170609474182129
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 753
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04691958427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 754
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03597736358642578
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 755
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03175187110900879
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 756
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031250953674316406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 757
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047339677810668945
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 758
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129267692565918
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 759
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04432845115661621
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 760
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03699970245361328
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 761
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03446555137634277
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 762
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031248807907104492
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 763
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04398798942565918
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 764
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.025876760482788086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 765
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031248807907104492
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 766
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04737544059753418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 767
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 768
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03779125213623047
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 769
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.025210142135620117
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 770
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468745231628418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 771
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170895576477051
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 772
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031293392181396484
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 773
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.050887107849121094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 774
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03426170349121094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 775
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 776
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04240870475769043
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 777
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0374147891998291
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 778
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.037009239196777344
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 779
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.034995317459106445
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 780
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129267692565918
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 781
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312504768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 782
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04733133316040039
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 783
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129434585571289
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 784
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 785
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04738616943359375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 786
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 787
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04073762893676758
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 788
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02917623519897461
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 789
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03127455711364746
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 790
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04679107666015625
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 791
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031294822692871094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 792
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.039989471435546875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 793
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03317523002624512
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 794
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03127479553222656
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 795
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125357627868652
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 796
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0473175048828125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 797
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031294822692871094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 798
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125119209289551
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 799
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04737448692321777
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 800
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 801
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.045275211334228516
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 802
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.022184371948242188
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 803
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04689955711364746
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 804
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031166553497314453
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 805
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129458427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 806
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468752384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 807
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04150390625
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 808
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03582882881164551
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 809
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249523162841797
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 810
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03175044059753418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 811
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249046325683594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 812
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 813
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03175044059753418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 814
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.034603118896484375
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 815
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046927690505981445
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 816
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0287778377532959
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 817
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249523162841797
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 818
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04733133316040039
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 819
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031295061111450195
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 820
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 821
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04951977729797363
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 822
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.028194665908813477
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 823
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03127408027648926
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 824
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03174853324890137
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 825
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468745231628418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 826
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03579115867614746
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 827
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.027210474014282227
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 828
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04952216148376465
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 829
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.026692628860473633
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 830
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04692411422729492
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 831
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 832
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04739570617675781
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 833
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468747615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 834
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03171801567077637
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 835
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05423736572265625
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 836
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04069113731384277
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 837
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.040701866149902344
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 838
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.037635087966918945
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 839
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031710147857666016
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 840
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05512237548828125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 841
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03957557678222656
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 842
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03127646446228027
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 843
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249046325683594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 844
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04733133316040039
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 845
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312952995300293
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 846
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249284744262695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 847
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04737687110900879
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 848
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 849
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04142880439758301
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 850
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02518606185913086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 851
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04689931869506836
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 852
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031166553497314453
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 853
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031294822692871094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 854
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04958081245422363
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 855
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.025175094604492188
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 856
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04689931869506836
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 857
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 858
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031707763671875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 859
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04692339897155762
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 860
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03829836845397949
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 861
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04034709930419922
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 862
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 863
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05673670768737793
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 864
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.042754411697387695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 865
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170514106750488
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 866
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05015063285827637
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 867
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.041548728942871094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 868
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.027768850326538086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 869
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04687213897705078
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 870
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03124856948852539
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 871
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 872
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875715255737305
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 873
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170585632324219
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 874
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129458427429199
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 875
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468747615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 876
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031749725341796875
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 877
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0416104793548584
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 878
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0281524658203125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 879
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03175020217895508
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 880
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04789566993713379
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 881
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.036991119384765625
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 882
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03444051742553711
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 883
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031234025955200195
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 884
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170180320739746
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 885
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04691767692565918
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 886
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249284744262695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 887
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031706809997558594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 888
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0517427921295166
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 889
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03681755065917969
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 890
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.026211261749267578
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 891
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05237221717834473
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 892
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.028100252151489258
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 893
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05074739456176758
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 894
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03699612617492676
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 895
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03814125061035156
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 896
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.022014141082763672
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 897
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04677009582519531
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 898
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031259775161743164
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 899
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 900
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04726576805114746
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 901
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031259775161743164
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 902
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249523162841797
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 903
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04727935791015625
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 904
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046874284744262695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 905
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0445706844329834
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 906
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.02969074249267578
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 907
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0544283390045166
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 908
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.029999732971191406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 909
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04692578315734863
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 910
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03164172172546387
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 911
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03158926963806152
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 912
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046888113021850586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 913
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0316462516784668
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 914
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03126811981201172
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 915
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04686927795410156
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 916
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031746864318847656
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 917
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 918
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 919
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05148816108703613
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 920
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0369114875793457
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 921
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03609871864318848
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 922
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03127551078796387
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 923
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249523162841797
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 924
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170657157897949
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 925
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04691791534423828
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 926
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03125
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 927
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03170657157897949
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 928
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046920061111450195
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 929
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312497615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 930
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03175044059753418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 931
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468752384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 932
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03228640556335449
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 933
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04679107666015625
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 934
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04142022132873535
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 935
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03358292579650879
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 936
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468754768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 937
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0317842960357666
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 938
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04685473442077637
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 939
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468747615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 940
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0317690372467041
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 941
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046875953674316406
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 942
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04739546775817871
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 943
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031248807907104492
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 944
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04990959167480469
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 945
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04433941841125488
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 946
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03709888458251953
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 947
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.036992549896240234
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 948
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.021837472915649414
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 949
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468747615814209
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 950
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03174901008605957
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 951
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031249284744262695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 952
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468752384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 953
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031751155853271484
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 954
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 955
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047331809997558594
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 956
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031293392181396484
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 957
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 958
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047330617904663086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 959
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.036422014236450195
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 960
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03860330581665039
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 961
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.038022518157958984
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 962
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.029139280319213867
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 963
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03127121925354004
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 964
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031751394271850586
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 965
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.046877384185791016
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 966
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03328514099121094
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 967
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04534578323364258
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 968
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04687309265136719
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 969
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0317685604095459
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 970
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047440290451049805
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 971
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.047376155853271484
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 972
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04454684257507324
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 973
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03754162788391113
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 974
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.040555715560913086
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 975
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03818702697753906
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 976
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.027861833572387695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 977
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129434585571289
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 978
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468745231628418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 979
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031213045120239258
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 980
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.031250715255737305
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 981
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0468752384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 982
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03175044059753418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 983
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 984
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04732155799865723
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 985
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03129386901855469
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 986
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04655122756958008
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 987
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.028130292892456055
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 988
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03127145767211914
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 989
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.050729990005493164
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 990
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03297758102416992
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 991
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312504768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 992
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.04479408264160156
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 993
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.03382563591003418
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 994
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312504768371582
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 995
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.035291194915771484
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 996
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.043334245681762695
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 997
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0312502384185791
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 998
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.0317072868347168
+-------------------------------------------
+ - FORCA BRUTA
+    ITERAÇÃO: 999
+    PALAVRA: lksjdfjdf
+    INDÍCE ENCONTRADO: None
+    TEMPO DE EXECUÇÃO: 0.05072593688964844
+-------------------------------------------
+TEMPO MÉDIO DE EXECUÇÃO: 0.03697305560111999
 ==============================================
